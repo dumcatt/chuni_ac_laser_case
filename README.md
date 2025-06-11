@@ -49,6 +49,7 @@ For my slider, I used plywood and 1mm black acrylic.
 
 ![real](./img/real.jpg)
 
+![compare](./img/compare.jpg)
 
 
 
